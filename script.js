@@ -1,3 +1,5 @@
+// start logic
+
 /*
   Advices
   - Always Check The Console
